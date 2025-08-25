@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/basdilhan">
-<img src="https://avatars.githubusercontent.com/u/84221160?v=4" width="150" height="150" style="border-radius: 50%;" alt="Samudu Dilhan Profile Picture">
+
 </a>
 <h1 align="center">Hi there 👋, I'm Samudu Dilhan!</h1>
 </p>
