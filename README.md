@@ -17,10 +17,11 @@ I'm open to collaborating on interesting projects that push the boundaries of te
 
 Email: Samudu104@gmail.com
 
+
 LinkedIn: linkedin.com/in/samudu dilhan
 
 <p align="left">
-<a href="www.linkedin.com/in/samudu-dilhan-45907028b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudu dilhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samudu%20dilhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudu dilhan" height="30" width="40" /></a>
 </p>
 
 💻 Languages and Tools I Use
