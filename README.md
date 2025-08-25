@@ -1,22 +1,31 @@
-
-Hi there 👋, I'm Samudu Dilhan!
-I'm a passionate developer from Sri Lanka currently learning Computer Science. I'm always looking for new challenges and opportunities to improve my skills.
-
-🔭 About Me
-💡 I’m currently focused on the Computer Science Programme.
-
-🌱 I'm eager to learn and build projects with new technologies.
-
-🤝 I'm open to collaborating on interesting projects.
-
-📫 You can reach me at Samudu104@gmail.com.
-
-🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/samudu dilhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudu dilhan" height="30" width="40" /></a>
+<p align="center">
+<a href="https://github.com/basdilhan">
+<img src="https://avatars.githubusercontent.com/u/84221160?v=4" width="150" height="150" style="border-radius: 50%;" alt="Samudu Dilhan Profile Picture">
+</a>
+<h1 align="center">Hi there 👋, I'm Samudu Dilhan!</h1>
 </p>
 
-💻 Languages and Tools I use
+I'm a passionate and highly motivated Computer Science student from Sri Lanka, with a strong focus on building practical applications and continuously improving my technical skills. I'm always looking for new challenges and opportunities to apply my knowledge in real-world scenarios.
+
+🔭 My Focus
+Current Program: I'm currently dedicating my time to the Computer Science Programme, where I'm expanding my theoretical knowledge and practical skills.
+
+Learning & Building: I am eager to learn and build projects with new technologies. My current focus areas include full-stack development with Java and Spring, as well as cross-platform mobile development with Flutter.
+
+🤝 Let's Connect
+I'm open to collaborating on interesting projects that push the boundaries of technology. Whether you have an idea for a new application or need a hand with an existing one, I'd love to connect.
+
+Email: Samudu104@gmail.com
+
+LinkedIn: linkedin.com/in/samudu dilhan
+
+<p align="left">
+<a href="www.linkedin.com/in/samudu-dilhan-45907028b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudu dilhan" height="30" width="40" /></a>
+</p>
+
+💻 Languages and Tools I Use
+Here are the technologies I'm proficient in and actively use in my projects.
+
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -36,4 +45,11 @@ I'm a passionate developer from Sri Lanka currently learning Computer Science. I
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basdilhan&show_icons=true&locale=en" alt="basdilhan" /></p>
+📈 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basdilhan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="basdilhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basdilhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>
+
+
+When I'm not coding, you can find me [Your hobby, e.g., "hiking", "reading sci-fi novels", "playing video games"].
+
+My favorite thing about software development is the endless opportunity to create and innovate.
